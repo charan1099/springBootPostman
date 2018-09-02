@@ -32,8 +32,8 @@ public String view(@PathVariable("pid") Integer pid)
 		if(pid==101)
 		{
 			p.setPid(101);
-			p.setName("vinay");
-			p.setPrice(2000);
+			p.setName("charan");
+			p.setPrice(3000);
 			
 		}
 		
